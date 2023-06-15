@@ -1,0 +1,9 @@
+{
+  "name": "FocusApp",
+  "displayName": "FocusApp",
+  "extra": {
+    "eas": {
+      "projectId": "9f218dba-b236-4b23-8e7f-c6a731a27f10"
+    }
+  }
+}
