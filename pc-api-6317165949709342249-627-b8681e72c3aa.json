@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-6317165949709342249-627",
+  "private_key_id": "b8681e72c3aa4faecd74a533ecb6faf4196bc37e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3r6G/tzB9bO4v\nwhGImcMk7tLioTZUCSegdR7ciFuzrDQW6FOlN27WVGX0u5PKtJu1kZWZQbInsr5W\n7sAqovlM/O9BhViv1/lXufRe7Tv1of0bLWW3suzgDWel4pEbn7BuE5AW0sGpGN4o\npffrzsBQXKaq6HZ8Fh3DMB32an2FKW09dtCeHcna+7xlyf86PASZL7LxzhPFAO5W\nPofsHbR4Kd1c3ZRIjHRBS7JRIpamYHr3KXofuHwGy8tP3IBs+vGsvdmSjbIqk4RA\n+2Zd0HYv9RFbjOrPEcuW5Iad4I9ZcIphO4UNv81Odq4vlogNK9nFSsADBu2zGkyT\n+gBRXh5PAgMBAAECggEABUjeyPK+yOUA50vYkEsIM8BRPebwdrN6ueGUvTiJFt69\n8ujFO0wgercb5dIduue+URd6q9mZhA3e7wZYbgGZVY8zXPm2pvx6Nn1pm++MWZFL\nBGSmeAYETZ/lGv8tOJO8Ejaq3xU6MCDAh3/a5aRhoQ5BV0pv2jsSqSJxwjynFtUh\nPSlHCTrciVUdS1vBY72P1+c9Y/oTVpJ01EgtqUjqZUrnSXjJD7BjCIQRSPt1rz1K\nC5lDy9pEBD7mxBG54AVMKgSbYy1rxn4GNrMvp+OnNkZ/Mqk9Gaxzc43Htpe6O8pN\nxvU1+ZgP8zM089/FUvMw+YMzm8QL+FdFAozXnW0r9QKBgQDww5xKE09oVvIHxsHF\nuBIhEZUJluTJXqAufJRu+4PC6MIMjTKIE3QXYd52TaSyUusxPXxyfJaAhJ8EGB83\nV5j7ulDjoP9ZAVA0gr5RqBmzPfjGHPiSlulqjTcWqrz6t8EKK3Ol+eIvEr5ZT9oz\nP1v6aSBgHKV3gFslRJvKZeCDawKBgQDDT1q8gs86LuNDusp7bULcESGDGwjiCc8C\nr6REUwa9vAjDhbrcWdQsr8G2Vp6XLg5mumFrJJV5o9uVmMATjjJ7o/rbOb7TXmCc\nSeUNO2iK4XXzPfojjSUJH8btJlVdb/zQe/od1MtIY52zBYSjLtHZ+CUQI0D63Rv5\ngtiWawKtrQKBgQDLdwOlNhxtOMzg9X7b8Gqht5ITwIkoA+eqYW2vPK5lEP6sTMbf\naFE7UWIG6Ca+7IQF4MhCmDc39NvNQfVfd4+5bALf2zbvqMR3G+Zqa30MlNqf0evf\nNdmcSiq75R4/Yvqn9YCOS1ZyIYzrPShRFsJMJHtPveW3z6k3HXvq152ccQKBgCWK\nekFjz1s6qfpZzBO/Y6uTK2Lc7m8sPXshsaxkXRZZL0IN0WYLaioQumZG7gLXGnOK\nfbEvff+8jDeL/deEbJWxZkV/KvvL1zwTRBCwC58uSRKxJgRxW94OGpl41c24+dpF\nCkVzooNOioBfnigTlsiT1uPsMtBFcdwa13DKLuCdAoGBAKm3YyIqsSigWwgA88as\ntgoc1kQYjK3aPeoEXC4WN60k8i6tt01G+ALftv5LBL2xuaV3pMjDwFBcg4ks4Vtn\n15AUt7Vvgsb+8MtuVh4xNy7zHirG32LSqIRW3hZnh5kSvKWUzi9sp1vzJBwQdGuz\n7/SNuvcT2MDLHzBFWX7zJDtd\n-----END PRIVATE KEY-----\n",
+  "client_email": "bamidele-play-store-apps@pc-api-6317165949709342249-627.iam.gserviceaccount.com",
+  "client_id": "104377754681391644421",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bamidele-play-store-apps%40pc-api-6317165949709342249-627.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
