@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.focusapp"
+    namespace "com.bjtmtechnologies.focusapp"
     defaultConfig {
-        applicationId "com.focusapp"
+        applicationId "com.bjtmtechnologies.focusapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

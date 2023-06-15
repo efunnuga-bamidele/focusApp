@@ -1,4 +1,4 @@
-package com.focusapp;
+package com.bjtmtechnologies.focusapp;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
